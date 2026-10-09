@@ -1,0 +1,191 @@
+{
+  "issues": [
+    {
+      "id": "deposit",
+      "title": "Rental deposit not returned",
+      "category": "Housing",
+      "icon": "home",
+      "description": "Your landlord or hostel has not returned your security deposit.",
+      "keywords": [
+        "rent",
+        "rental",
+        "landlord",
+        "hostel",
+        "deposit",
+        "security",
+        "tenant",
+        "housing",
+        "room"
+      ],
+      "steps": [
+        "Collect your rental agreement, payment proof, messages and move-out evidence.",
+        "Send a calm written request listing the amount, date and a reasonable response deadline.",
+        "If unresolved, contact a legal services authority or a qualified lawyer to understand the suitable next step."
+      ],
+      "source_name": "India Code — official legislation portal",
+      "source_url": "https://www.indiacode.nic.in/indiacode/home.jsp",
+      "note": "Rental rights depend on the agreement, state law and the facts of the situation."
+    },
+    {
+      "id": "internship",
+      "title": "Unpaid internship or overtime",
+      "category": "Work",
+      "icon": "briefcase",
+      "description": "You believe promised internship payment or wages have not been paid.",
+      "keywords": [
+        "unpaid",
+        "internship",
+        "intern",
+        "salary",
+        "wage",
+        "overtime",
+        "employer",
+        "work",
+        "stipend",
+        "payment"
+      ],
+      "steps": [
+        "Keep the offer letter, internship terms, attendance, timesheets and payment messages.",
+        "Ask the organisation in writing to clarify the amount due and the payment date.",
+        "If the issue continues, seek advice from the relevant labour authority or a legal services provider."
+      ],
+      "source_name": "India Code — official legislation portal",
+      "source_url": "https://www.indiacode.nic.in/indiacode/home.jsp",
+      "note": "Whether a payment or labour law applies depends on the work arrangement and applicable law."
+    },
+    {
+      "id": "college",
+      "title": "College disciplinary action",
+      "category": "Education",
+      "icon": "graduation",
+      "description": "You want to challenge a disciplinary decision or understand a college complaint process.",
+      "keywords": [
+        "college",
+        "university",
+        "student",
+        "disciplinary",
+        "suspension",
+        "expulsion",
+        "appeal",
+        "exam",
+        "marks",
+        "grievance"
+      ],
+      "steps": [
+        "Read the student handbook, notice and applicable university regulations.",
+        "Keep copies of notices, emails and evidence; note any appeal deadline.",
+        "Submit a factual written representation through the official college or university grievance process."
+      ],
+      "source_name": "University Grants Commission (UGC)",
+      "source_url": "https://www.ugc.gov.in/",
+      "note": "Follow the rules and appeal process applicable to your institution. Seek advice for serious or urgent matters."
+    },
+    {
+      "id": "consumer",
+      "title": "Online purchase or service complaint",
+      "category": "Consumer",
+      "icon": "shopping",
+      "description": "A seller or service provider has not resolved a purchase or service problem.",
+      "keywords": [
+        "consumer",
+        "online",
+        "purchase",
+        "product",
+        "refund",
+        "seller",
+        "service",
+        "invoice",
+        "shopping",
+        "complaint"
+      ],
+      "steps": [
+        "Save the invoice, order ID, screenshots, warranty and communication.",
+        "Contact the seller or service provider and clearly state the resolution you want.",
+        "If unresolved, check the National Consumer Helpline and its current complaint process."
+      ],
+      "source_name": "National Consumer Helpline",
+      "source_url": "https://consumerhelpline.gov.in/",
+      "note": "The helpline offers consumer grievance support; it does not guarantee a particular outcome."
+    },
+    {
+      "id": "privacy",
+      "title": "Privacy or misuse of personal information",
+      "category": "Privacy",
+      "icon": "shield",
+      "description": "You are concerned about how an organisation or person used your personal information.",
+      "keywords": [
+        "privacy",
+        "data",
+        "personal",
+        "information",
+        "photo",
+        "account",
+        "misuse",
+        "cyber",
+        "security"
+      ],
+      "steps": [
+        "Save relevant messages, screenshots, dates and account/security notifications.",
+        "Use the service's official privacy, grievance or security reporting channel.",
+        "If there is a threat, fraud or immediate safety concern, contact the appropriate official authority."
+      ],
+      "source_name": "India Code — official legislation portal",
+      "source_url": "https://www.indiacode.nic.in/indiacode/home.jsp",
+      "note": "The correct process depends on the type of data, who used it and the circumstances."
+    }
+  ],
+  "flashcards": [
+    {
+      "title": "Keep a paper trail",
+      "category": "Practical tip",
+      "body": "Save agreements, receipts, emails, notices and dated screenshots. Organised records can help you explain a problem clearly."
+    },
+    {
+      "title": "Read before you sign",
+      "category": "Housing & work",
+      "body": "Read agreements and ask for unclear terms in writing before accepting them. Keep a copy of the signed version."
+    },
+    {
+      "title": "Ask for the process in writing",
+      "category": "Education",
+      "body": "For a college grievance, ask which policy applies, how to submit a representation and whether a deadline exists."
+    },
+    {
+      "title": "Know where to ask for help",
+      "category": "Legal aid",
+      "body": "NALSA and State/District Legal Services Authorities provide information about free legal services and eligibility."
+    },
+    {
+      "title": "Consumer complaints need evidence",
+      "category": "Consumer",
+      "body": "Keep order details, invoices, payment proof and a record of the attempts you made to resolve the issue."
+    }
+  ],
+  "resources": [
+    {
+      "name": "NALSA — Legal Services",
+      "description": "Information about free legal aid and legal services authorities.",
+      "url": "https://nalsa.gov.in/legal-services/"
+    },
+    {
+      "name": "India Code",
+      "description": "Official repository for Central legislation.",
+      "url": "https://www.indiacode.nic.in/indiacode/home.jsp"
+    },
+    {
+      "name": "National Consumer Helpline",
+      "description": "Government consumer grievance support.",
+      "url": "https://consumerhelpline.gov.in/"
+    },
+    {
+      "name": "UGC",
+      "description": "Official University Grants Commission website.",
+      "url": "https://www.ugc.gov.in/"
+    },
+    {
+      "name": "Kerala State Legal Services Authority",
+      "description": "Legal services information for Kerala.",
+      "url": "https://kerala.nalsa.gov.in/introduction/"
+    }
+  ]
+}
