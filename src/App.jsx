@@ -244,7 +244,7 @@ function App() {
             <div className="info-note"><AlertCircle size={18}/><p>For immediate danger or urgent threats, contact the appropriate emergency service or local authorities. RightsPocket is not an emergency service and cannot assess eligibility for legal aid.</p></div>
           </>}
 
-          <footer className="footer"><div className="footer-brand"><Scale size={17}/> RightsPocket</div><span>Built for student awareness · Hackathon MVP</span><a href="https://www.indiacode.nic.in/indiacode/home.jsp" target="_blank" rel="noreferrer">Verify laws at India Code <ExternalLink size={13}/></a></footer>
+          <footer className="footer"><div className="footer-brand"><Scale size={17}/> RightsPocket</div><span></span><a href="https://www.indiacode.nic.in/indiacode/home.jsp" target="_blank" rel="noreferrer">Verify laws at India Code <ExternalLink size={13}/></a></footer>
         </div>
       </main>
     </div>
